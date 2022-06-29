@@ -8,7 +8,7 @@
 
 I thought of this calculator idea when I searched for a sleep cycle calculator on the internet and I found them unnecessarily complicated. Therefore, I created my own simple to use <a href="https://en.wikipedia.org/wiki/Sleep_cycle" target="_blank">REM-NREM sleep cycle</a> calculator.
 
-# Screenshot
+# Screenshots
 
 <p>
 <a href="https://sleepcyclecalculator.surge.sh/" target="_blank"><img src="https://i.ibb.co/tQbx4YC/screenshot.png"></a>
